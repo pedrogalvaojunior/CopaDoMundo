@@ -41,37 +41,40 @@ Após a simulação, execute os arquivos abaixo para visualizar os resultados:
 ## 📦 Funcionalidades por Versão
 
 ### 🔸 Versão 1.0 (01/04/22 a 15/04/22)
-- Simulação completa das fases: grupos, oitavas, quartas, semi, final e terceiro lugar
-- Análise de empates com prorrogação ou pênaltis
-- Classificação final das seleções por pontuação e critérios FIFA
-- Histórico de jogos, classificações e campeões
+- Simulação completa das fases: grupos, oitavas, quartas, semi, final e terceiro lugar.
+- Análise de empates com prorrogação ou pênaltis.
+- Classificação final das seleções por pontuação e critérios FIFA.
+- Histórico de jogos, classificações e campeões.
 
 ### 🔸 Versão 2.0 (18/04/22 a 05/05/22)
-- Estatísticas de desempenho nas finais e posições
-- Nova barra de progresso
-- Redução do tempo médio de processamento para ~0.07s
+- Estatísticas de desempenho nas finais e posições.
+- Nova barra de progresso.
+- Redução do tempo médio de processamento para ~0.07s.
 
 ### 🔸 Versão 3.0 (10/05/22 a 15/06/22)
-- Atualização das seleções participantes
-- Correção de erros em simulações de pênaltis
-- Inclusão dos arquivos 11 e 12
+- Atualização das seleções participantes.
+- Correção de erros em simulações de pênaltis.
+- Inclusão dos arquivos 11 e 12.
 
 ### 🔸 Versão 4.0 (06/09/22 a 07/09/22)
-- Correções nas estatísticas das 16 primeiras posições
-- Acréscimo do arquivo 8.3
+- Correções nas estatísticas das 16 primeiras posições.
+- Acréscimo do arquivo 8.3.
 
 ### 🔸 Versão 4.1 (09/11/23 a 10/11/23)
-- Correção na definição das 16 seleções classificadas para as oitavas
+- Correção na definição das 16 seleções classificadas para as oitavas.
 
 ### 🔸 Versão 4.2 (09/01/24 a 11/01/24)
-- Correções nos arquivos 1.0 e 2.0 relacionados à definição das seleções da FIFA
+- Correções nos arquivos 1.0 e 2.0 relacionados à definição das seleções da FIFA.
 
 ### 🔸 Versão 4.3 (27/09/25 a 02/10/25)
-- Inclusão da coluna `ProrrogacaoOuPenaltys` para controle de empates
-- Simulação condicional de prorrogação ou pênaltis
-- Melhor apresentação dos resultados finais
-- Correções nas fases de quartas e semi-final
-- Redução do tempo médio de processamento para ~0.05s
+- Inclusão da coluna `ProrrogacaoOuPenaltys` na Tabela **Jogos** para controle de empates.
+- Simulação condicional de prorrogação ou pênaltis.
+- Melhor apresentação dos resultados finais.
+- Correções nas fases de quartas e semi-final.
+- Redução do tempo médio de processamento para ~0.05s.
+
+### 📌 Versão 4.4 — Atualização entre 20/11/25 e 23/11/25
+1. Correção na formas de definição das seleções classificadas para a Fase Oitavas de Final.
 
 ---
 
