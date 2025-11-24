@@ -82,3 +82,7 @@ Após a simulação, execute os arquivos abaixo para visualizar os resultados:
 - Para melhor experiência, siga a ordem de execução dos arquivos conforme indicado.
 - As versões posteriores incluem melhorias de desempenho e correções importantes.
 - O projeto é ideal para fins didáticos, estatísticos e simulações esportivas.
+
+👨‍💻 Autor
+Pedro Antonio Galvão Galvão Júnior - MVP Junior Galvão
+Projeto iniciado em Abril/2022 e atualizado para a Copa do Mundo de Futebol Masculino FIFA 2022.
